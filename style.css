@@ -1,3 +1,12 @@
-h1  {
+h1 {
   color: blue;
+  text-align: center;
+}
+
+a {
+  color: red;
+}
+
+a:hover {
+  opacity: 0.5;
 }
