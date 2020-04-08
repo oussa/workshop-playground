@@ -10,3 +10,38 @@ a {
 a:hover {
   opacity: 0.5;
 }
+
+h3 {
+  text-decoration: underline;
+  font-size: 13px;
+}
+
+p {
+  color: green;
+}
+
+.header {
+  color: orange;
+}
+
+.header {
+  font-size: 40px;
+}
+
+.header-section {
+  text-align: center;
+  border: 1px solid orange;
+  border-radius: 5px;
+  padding: 50px 10px 50px 30px;
+  background-image: url("https://images.unsplash.com/photo-1586189969862-2b8dadb1e0c1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=900&q=60")
+}
+
+.highlights {
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer {
+  background-color: lightgray;
+  /* @TODO: give me some padding */
+}
